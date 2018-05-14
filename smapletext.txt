@@ -2,3 +2,4 @@ team name : AIR
 my name : Ryu Byeng Ock
 what is your name?
 my name : Kim Dong Yeup (nan-ip)
+clear error
