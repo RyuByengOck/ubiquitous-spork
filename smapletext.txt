@@ -1,7 +1,11 @@
 team name : AIR
 my name : Ryu Byeng Ock
+<<<<<<< HEAD
 asdf
 
 CHUNGDOLE
 push
 push1
+=======
+what is your name?
+>>>>>>> master
